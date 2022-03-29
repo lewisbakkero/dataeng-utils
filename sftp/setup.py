@@ -15,7 +15,7 @@ setup(
     description=' Common SFTP Utilities library',
     packages=packages,
     install_requires=[
-        "paramiko==2.4.0",
+        "paramiko==2.10.1",
         "dataeng-utils-gcs >= 1.1.0, < 2.0dev"
     ]
 )
