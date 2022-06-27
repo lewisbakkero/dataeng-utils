@@ -15,6 +15,6 @@ setup(
     description=' Common MySQL Utilities library',
     packages=packages,
     install_requires=[
-        "mysql_connector_python==8.0.13"
+        "mysql_connector_python==8.0.14"
     ]
 )
