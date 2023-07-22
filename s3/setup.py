@@ -15,7 +15,7 @@ setup(
     description=' Common S3 Utilities library',
     packages=packages,
     install_requires=[
-        "paramiko==2.4.0",
+        "paramiko==2.4.2",
         "boto3==1.9.57",
         "dataeng-utils-data-type >= 1.1.0, < 2.0dev"
     ],
