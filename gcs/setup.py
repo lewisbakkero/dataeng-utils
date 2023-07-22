@@ -15,7 +15,7 @@ setup(
     description='Common Google Cloud Storage Utilities library',
     packages=packages,
     install_requires=[
-        "paramiko==2.4.0",
+        "paramiko==2.4.2",
         "google-cloud-storage==1.14.0"
     ],
     tests_require=[
